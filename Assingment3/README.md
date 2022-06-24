@@ -1,4 +1,4 @@
-# RabbitMQExample
+# Week 3 Assingment RabbitMQExample
 
 - Spring Boot
 - RabbitMQ
