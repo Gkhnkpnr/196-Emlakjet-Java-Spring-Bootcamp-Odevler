@@ -1,2 +1,7 @@
-# week-2-assignment-2-gokhanakpinar
-Week2 Assignment
+#Week2 Assignment
+
+- Spring Data Jpa
+- Spring Web
+- H2 Database
+
+Kullanarak request gonderebildigimiz bir Web Service Ornegi
